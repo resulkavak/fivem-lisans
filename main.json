@@ -1,6 +1,11 @@
-[
+[ 
    {
       "ip":"176.40.231.250",
+      "hash":"dox.rxksQpeGBQJFU.fx",
+      "owner":"Doxria,Zade", 
+   },
+   {
+      "ip":"217.195.197.22",
       "hash":"dox.rxksQpeGBQJFU.fx",
       "owner":"Doxria,Zade", 
    },
@@ -38,7 +43,7 @@
       "ip":"195.85.205.53",
       "hash":"zade.rrzKQpeGBQJFU.fx",
       "owner":"Doxria,Zade",
-   },
+   }, 
    {
       "ip":"78.111.111.700",
       "hash":"zade.rrzKQpeGBQJFU.fx",
