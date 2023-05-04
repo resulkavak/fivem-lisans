@@ -70,8 +70,13 @@
       "owner":"Doxria,Zade",
    },
    {
-      "ip":"45.80.31.190",
+      "ip":"24.133.156.68",
       "hash":"zade.rrzKQpeGBQJFU.fx",
+      "owner":"Doxria,Zade Local TEST",
+   },
+   {
+      "ip":"45.80.31.190",
+      "hash":"zade.rrzKQpeGBQJFU.fx", 
       "owner":"Doxria,Zade",
    },
 ]
